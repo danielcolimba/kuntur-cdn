@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: django-cdn-api
-    env: python
-    buildCommand: "./build.sh"
-    startCommand: "gunicorn uploadvideo.wsgi:application"
-    workingDir: uploadvideo
