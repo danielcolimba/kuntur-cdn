@@ -1,0 +1,22 @@
+# Venv
+venv/
+.env
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+media/
+*.log
+*.pot
+*.mo
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.bak
+*.tmp
+node_modules/
+coverage/
+htmlcov/
+*.sqlite3
+local_settings.py
