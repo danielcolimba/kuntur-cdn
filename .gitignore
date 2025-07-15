@@ -20,4 +20,5 @@ htmlcov/
 *.sqlite3
 local_settings.py
 # Migration files
-uploadvideo/core/migrations/
+migrations/
+core/migrations/
